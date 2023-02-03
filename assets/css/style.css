@@ -2,7 +2,7 @@
     
 
 .mainSection {
-    background-image: url(/assets/img/blueback.jpeg);
+    background-image: url(../img/blueback.jpeg);
     background-size: cover;
 }
 
