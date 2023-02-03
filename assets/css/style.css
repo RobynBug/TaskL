@@ -1,0 +1,55 @@
+
+    
+
+.mainSection {
+    background-image: url(/assets/img/blueback.jpeg);
+    background-size: cover;
+}
+
+
+body {
+    
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    display: grid;
+    
+}
+
+h1 {
+    font-weight: 300;
+    text-align: center;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+    color: black;
+}
+
+
+.card {
+    flex-direction: row;
+}
+
+
+.formLabel {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#urgent {
+    color: red;
+}
+
+div #tasklistitems {
+    background-color: rgb(247, 209, 163);
+}
+
+textarea{ 
+    background-color:rgb(219, 221, 223) !important;
+    box-shadow: 1in;
+}
+
+input {
+    background-color:rgb(219, 221, 223) !important;
+    
+}
